@@ -1,0 +1,7 @@
+credenciales de la bd en mongo atlas gratis.
+
+gianbonilla81
+Km9r7zGYCaifdC6K
+
+link de enlace
+mongodb+srv://gianbonilla81:Km9r7zGYCaifdC6K@cluster0.p8pdoue.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
